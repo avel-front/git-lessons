@@ -1,3 +1,6 @@
 # Readme file for Git
 
-This repository has been created when I watched Git tutorials.
+В этом репозитории я учился работать с контролем версий. Использовал CLI Git Bush.  
+Далее буду использовать этот репозиторий для новых тренировок.  
+
+![Alt-readme](https://i.ibb.co/FHZqDQv/readme.png "readme")
