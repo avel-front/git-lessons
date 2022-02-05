@@ -3,4 +3,4 @@
 В этом репозитории я учился работать с контролем версий. Использовал CLI Git Bush.  
 Далее буду использовать этот репозиторий для новых тренировок.  
 
-![Alt-readme](https://i.ibb.co/FHZqDQv/readme.png "readme")
+![Alt-readme](https://i.ibb.co/cT46SFN/68747470733a2f2f692e6962622e636f2f46485a714451762f726561646d652e706e67.png "readme")
